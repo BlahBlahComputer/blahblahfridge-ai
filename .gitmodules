@@ -1,0 +1,3 @@
+[submodule "easyocr"]
+	path = easyocr
+	url = https://github.com/JaidedAI/EasyOCR
